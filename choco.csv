@@ -767,7 +767,7 @@
 1454,"Emily's","Japan",2015,"Peru","Peru",78,"3- B,S,C","brownine","nutty","unknown","unknown",3.5
 1450,"Emily's","Japan",2015,"Venezuela","Patanemo",79,"3- B,S,C","coarse","woody","roasty","unknown",3
 2108,"Encuentro","France",2018,"Haiti","Pisa w/ nibs",70,"2- B,S","simple","mild cocoa","fruit","unknown",3.5
-2108,"Encuentro","France",2018,"Guatemala","Asochivite",70,"2- B,S","spicy","sweet","","unknown",3.5
+2108,"Encuentro","France",2018,"Guatemala","Asochivite",70,"2- B,S","spicy","sweet","unknown","unknown",3.5
 2118,"Encuentro","France",2018,"Madagascar","Bejofo",70,"2- B,S","fruity","roasty","unknown","unknown",3.5
 2114,"Encuentro","France",2018,"Dominican Republic","Oko Caribe",70,"2- B,S","earthy","floral","cocoa","unknown",3.25
 1916,"ENNA","U.S.A.",2016,"Honduras","Wampusirpi, batch 007",75,"2- B,S","carrots","heavy roast","unknown","unknown",3.25
@@ -1181,7 +1181,7 @@
 2068,"Krak","Amsterdam",2018,"Philippines","Kablon Farm",70,"2- B,S","nuts","dried fruit","grassy","unknown",3.25
 2064,"Krak","Amsterdam",2018,"Madagascar","Mava Sa Ferme D'ottange",70,"2- B,S","roasty","nutty","unknown","unknown",3
 2282,"Krak","Amsterdam",2019,"Papua New Guinea","Gazelle",70,"2- B,S","astringent","smomkey cocoa","unknown","unknown",3.25
-2286,"Krak","Netherlands",2019,"Colombia","H. Betulia B6",70,"2- B,S","light color","","unknown","unknown",3
+2286,"Krak","Netherlands",2019,"Colombia","H. Betulia B6",70,"2- B,S","light color","unknown","unknown","unknown",3
 1422,"Kto","U.S.A.",2014,"Madagascar","Sambirano Valley",72,"3- B,S,C","strawberry","intense","sour","unknown",3.25
 1426,"Kto","U.S.A.",2014,"Belize","Belize",90,"2- B,S","intense","spicy","pungent","unknown",3.25
 1426,"Kto","U.S.A.",2014,"Dominican Republic","Elvesia",72,"3- B,S,C","spicy","molasses","earthy","unknown",3.25
@@ -1347,7 +1347,7 @@
 1255,"Manufaktura Czekolady","Poland",2014,"Venezuela","Porcelana",70,"2- B,S","nutty","intense","roasty","unknown",3.75
 1279,"Manufaktura Czekolady","Poland",2014,"Colombia","Kolumbia",85,"2- B,S","coarse","intense","nutty","unknown",3.5
 1844,"Manufaktura Czekolady","Poland",2016,"Nicaragua","Johe",70,"3- B,S,C","basic","balanced","deep cocoa","unknown",3.75
-1848,"Manufaktura Czekolady","Poland",2016,"Peru","Peru",70,"3- B,S,C","nutty","roasty","","unknown",3.5
+1848,"Manufaktura Czekolady","Poland",2016,"Peru","Peru",70,"3- B,S,C","nutty","roasty","unknown","unknown",3.5
 1474,"Map Chocolate","U.S.A.",2015,"Dominican Republic","ROIG, 2014",70,"3- B,S,C","fruity","tangy","cocoa","unknown",3.5
 1474,"Map Chocolate","U.S.A.",2015,"Peru","Maranon, 2014",62,"3- B,S,C","delicate","caramel","peanut","unknown",3.5
 1478,"Map Chocolate","U.S.A.",2015,"Ecuador","Ecuador",70,"3- B,S,C","coarse","floral","rum","unknown",3.5
