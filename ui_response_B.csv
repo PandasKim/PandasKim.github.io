@@ -1,4 +1,4 @@
-userID,version,device,return_visit,detention
+userID,version,device,revisit,detention
 0,171712,A,phone,True,3.44
 1,979731,B,tablet,True,24.83
 2,270438,B,PC,True,6.12
